@@ -3,7 +3,9 @@
 - The Code will be coming soon.
 
 ## The continuous prediction capability
-![gif](./imgs/combined_images_2-3.gif)
+<p align="center">
+  <img src="./imgs/combined_images_2-3.gif" alt="Demo GIF">
+</p>
 
 ## The State-of-the-Art Results of our Back2Color
 ![img](./imgs/Results_352.png)
