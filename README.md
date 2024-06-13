@@ -6,4 +6,4 @@
 ![gif](./imgs/combined_images_2-3.gif)
 
 ## The State-of-the-Art Results of our Back2Color
-![img](combined_images_2-3.gif)
+![img](./imgs/Results_352.png)
