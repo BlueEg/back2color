@@ -5,8 +5,8 @@
 ## The continuous prediction capability
 <p align="center">
   <img src="./imgs/combined_images_2-3.gif" alt="Demo GIF"
-      width="300" 
-    >
+      width="1000" 
+    />
 </p>
 
 ## The State-of-the-Art Results of our Back2Color
