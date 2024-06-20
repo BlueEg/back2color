@@ -8,4 +8,4 @@
 </p>
 
 ## The State-of-the-Art Results of our Back2Color
-![img](./imgs/Results_352.png)
+![img](./imgs/Results_384.png)
