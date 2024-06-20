@@ -5,7 +5,7 @@
 ## The continuous prediction capability
 <p align="center">
   <img src="./imgs/combined_images_2-3.gif" alt="Demo GIF"
-      width="1000" 
+      width="900" 
     />
 </p>
 
